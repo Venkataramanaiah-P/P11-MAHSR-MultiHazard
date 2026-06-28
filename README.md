@@ -18,5 +18,7 @@ Corridor C3-SEC3 (Boisar–Bhilad), covering a 45km stretch of the 508km corrido
 ## Tools
 GEE Python API · PostGIS · QGIS 3.40 · ArcGIS Pro · Python 3.12
 
+Note: Large raster files (LST, NDVI, NDWI, Final TIF) not included due to file size. Available on request.
+
 ## Author
 Venkataramanaiah Poliboyina | Survey Manager, L&T MAHSR
